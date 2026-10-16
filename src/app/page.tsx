@@ -156,7 +156,7 @@ function AboutSection() {
           className="font-jp-body text-[13px] leading-[2] mb-7"
           style={{ color: "var(--text-secondary)" }}
         >
-          2026年12月まで、ご案内は無料です。
+          2027年12月まで、ご案内は無料です。
           <br />
           入場料やお食事など実費のみ、当日現金でお支払いください。
           <br />
